@@ -1,0 +1,26 @@
+[
+  {
+    "from": "SampleEmail",
+    "date": 1600156671914,
+    "subject": "Sample Email for Inbox 1",
+    "id": 50223456
+  },
+  {
+    "from": "Test email",
+    "date": 1600106671914,
+    "subject": "Test Email for Inbox",
+    "id": 10824581
+  },
+  {
+    "from": "Another Sample Email",
+    "date": 1600116671914,
+    "subject": "Sample Email for Inbox 2",
+    "id": 90345551
+  },
+  {
+    "from": "Random email",
+    "date": 1600126671914,
+    "subject": "New Random subscription email",
+    "id": 74838344
+  }
+]
